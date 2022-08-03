@@ -1,2 +1,2 @@
 # Bankingmanagement
-this is a sample banki management system that helps in understanding the usage of django.
+this is a sample banking management system that helps in understanding the usage of django.
